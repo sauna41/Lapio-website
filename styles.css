@@ -1,0 +1,25 @@
+.container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: inherit;
+  }
+
+  .container2 {
+    width: 200px;
+    height: 100px;
+    left: 250px;
+    bottom: 114px;
+    background-color: yellow;
+    position: relative;
+
+  }
+
+  .container3 {
+    width: 200px;
+    height: 100px;
+    left: 500px;
+    bottom: 230px;
+    background-color: green;
+    position: relative;
+  }
